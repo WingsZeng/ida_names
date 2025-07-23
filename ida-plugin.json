@@ -1,0 +1,7 @@
+{
+    "IDAMetadataDescriptorVersion": 1,
+    "plugin": {
+        "name": "ida_names",
+        "entryPoint": "ida_names.py"
+    }
+}
